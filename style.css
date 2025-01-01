@@ -1,0 +1,38 @@
+
+
+h2{
+    font: italic;
+    color: orange;
+}
+h4{
+    text-align: end;
+    color: rgb(2, 60, 60);
+}
+
+
+.card
+{
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 25px;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+    justify-content: space-evenly;
+}
+span{
+    color: chocolate;
+}
+
+#pets
+{
+    display: flex;
+    justify-content: space-evenly;
+}
